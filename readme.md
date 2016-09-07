@@ -6,3 +6,4 @@ feature1
 master change
 feature3
 feature4
+some change 
